@@ -1,0 +1,38 @@
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.csproj.ResolveComReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAbout.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddBaseType.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddElement.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddLimitCard.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddProd.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddProduct.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.FormAddType.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\DataAcc.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\bin\x86\Release\Склад 2016.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\bin\x86\Release\Склад 2016.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\Склад 2016.exe
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\obj\x86\Release\Склад 2016.pdb
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\bin\x86\Release\Microsoft.Office.Interop.Word.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\bin\x86\Release\Microsoft.Vbe.Interop.dll
+C:\Users\admin\Documents\Visual Studio 2008\Projects\DataAcc\DataAcc\bin\x86\Release\office.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.csproj.ResolveComReference.cache
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\Склад 2016.exe
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\Склад 2016.pdb
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\x86\Release\Склад 2016.exe
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\x86\Release\Склад 2016.pdb
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\x86\Release\office.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.csprojResolveAssemblyReference.cache
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.Form1.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.Form2.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAbout.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddBaseType.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddElement.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddLimitCard.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddProd.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddProduct.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.FormAddType.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.Properties.Resources.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\x86\Release\DataAcc.csproj.GenerateResource.Cache

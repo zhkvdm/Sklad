@@ -1,0 +1,24 @@
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.csproj.ResolveComReference.cache
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.Form1.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.Form2.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAbout.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddBaseType.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddElement.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddLimitCard.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddProd.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddProduct.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.FormAddType.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.Properties.Resources.resources
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.csproj.GenerateResource.Cache
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Склад 2016.exe
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Склад 2016.pdb
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Microsoft.Office.Interop.Word.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Interop.LCC11.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Interop.Microsoft.Office.Core.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\bin\Release\Interop.WordClientPkgLib.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\DataAcc.csprojResolveAssemblyReference.cache
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\Interop.LCC11.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\Interop.Microsoft.Office.Core.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\Interop.WordClientPkgLib.dll
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\Склад 2016.exe
+D:\Zhukov\Work\Склад 2016\Код\DataAcc\obj\Release\Склад 2016.pdb
